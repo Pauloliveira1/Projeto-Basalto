@@ -1,0 +1,8 @@
+section {
+  background-color: green;     /* cor de fundo verde */
+  color: white;                /* cor do texto branca */
+  text-align: center;          /* centraliza o texto na horizontal */
+  padding: 40px 20px;          /* 40px em cima/baixo, 20px nas laterais */
+  margin-bottom: 30px;         /* separa essa section da próxima */
+  border-radius: 10px;         /* bordas arredondadas (opcional) */
+}
